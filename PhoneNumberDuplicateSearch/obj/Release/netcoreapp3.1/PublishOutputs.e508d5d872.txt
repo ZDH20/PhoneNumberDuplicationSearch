@@ -1,0 +1,5 @@
+C:\Users\zacth\Desktop\PhoneProjectPublish\PhoneNumberDuplicateSearch.exe
+C:\Users\zacth\Desktop\PhoneProjectPublish\PhoneNumberDuplicateSearch.dll
+C:\Users\zacth\Desktop\PhoneProjectPublish\PhoneNumberDuplicateSearch.deps.json
+C:\Users\zacth\Desktop\PhoneProjectPublish\PhoneNumberDuplicateSearch.runtimeconfig.json
+C:\Users\zacth\Desktop\PhoneProjectPublish\PhoneNumberDuplicateSearch.pdb
