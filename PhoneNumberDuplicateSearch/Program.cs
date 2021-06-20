@@ -9,7 +9,7 @@ namespace PhoneNumberDuplicateSearch
     class Program
     {
         //global variables
-        static bool globalRestart = false;
+        static bool globalRestart = false; //<----------NOT YET WORKING PROPERLY
         static bool globalRemoved = false;
         static IEnumerable<string> nonDupes;
         static string name;
@@ -245,7 +245,7 @@ namespace PhoneNumberDuplicateSearch
             numbersOverview(lines, fullPath, fileName);
             checkForDuplicates(lines, duplicates, newNumbers, count);
 
-            if (globalRestart) {
+            if (globalRestart) {//NOT YET WORKING PROPERLY--------------------
                 Console.WriteLine("\nChecking the new file");
                 fullPath = String.Concat(filePath, @"\", name);
                 duplicates.Clear();
